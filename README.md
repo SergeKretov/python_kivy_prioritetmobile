@@ -1,1 +1,0 @@
-# python_kivy_prioritetmobile
